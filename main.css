@@ -30,7 +30,3 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
-
-.nav-item {
-    text-align: right;
-}
