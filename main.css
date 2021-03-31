@@ -1,12 +1,12 @@
 body {
     padding: 0;
     margin: 0;
-    background: #f4ebe6;
+    background: #e1ded7;
     font-family: 'Karla', sans-serif;
 }
 
 .navbar {
-    background: #e1ded7;
+    background: #f4ebe6;
     color: #566777;
     font-family: 'Montserrat', sans-serif;
 }
@@ -31,3 +31,15 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
+
+.section {
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    letter-spacing: 0.3em;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #566777;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
