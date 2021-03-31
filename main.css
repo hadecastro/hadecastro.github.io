@@ -5,12 +5,12 @@ body {
 }
 
 .navbar {
-    background:#6ab446;
+    background:#f4ebe6;
 }
 
 .nav-link,
 .navbar-brand {
-    color: #fff;
+    color: #566777;
     cursor: pointer;
 }
 
