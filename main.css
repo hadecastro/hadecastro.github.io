@@ -39,9 +39,13 @@ body {
     padding-top: 60px;
     font-size: 19px;
     line-height: 34px;
-    
+
 }
 
+.inner {
+    max-width: 1024px;
+    margin: 0 auto;
+}
 .section {
     text-align: center;
     font-family: 'Karla', sans-serif;
