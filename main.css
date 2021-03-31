@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Karla', sans-serif;
-    background: #e1ded7;
+    background-color: #e1ded7;
     color:#333333;
 }
 
@@ -33,7 +33,7 @@ body {
     justify-content: flex-end;
 }
 
-
+#
 
 .section {
     text-align: center;
