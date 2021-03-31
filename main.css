@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background: #f4ebe6;
+    background: #fdfeff;
     color: #566777;
     font-family: 'Montserrat', sans-serif;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .nav-link {
-    background: #f4ebe6;
+    background: #fdfeff;
     color: #566777;
     font-family: 'Montserrat', sans-serif;
     margin-right: 1em !important;
@@ -33,7 +33,14 @@ body {
     justify-content: flex-end;
 }
 
-#
+#education {
+    height: auto;
+    margin-top: -30px;
+    padding-top: 60px;
+    font-size: 19px;
+    line-height: 34px;
+    
+}
 
 .section {
     text-align: center;
