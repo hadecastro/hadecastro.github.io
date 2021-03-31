@@ -1,8 +1,9 @@
 body {
     padding: 0;
     margin: 0;
-    background: #e1ded7;
     font-family: 'Karla', sans-serif;
+    background: #e1ded7;
+    color:#333333;
 }
 
 .navbar {
@@ -18,7 +19,7 @@ body {
 }
 
 .nav-link {
-    background: #e1ded7;
+    background: #f4ebe6;
     color: #566777;
     font-family: 'Montserrat', sans-serif;
     margin-right: 1em !important;
@@ -31,6 +32,8 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
+
+
 
 .section {
     text-align: center;
