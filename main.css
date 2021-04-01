@@ -41,6 +41,7 @@ body {
 .right {
     float: right;
 }
+
 #education {
     height: auto;
     margin-right: auto;
@@ -51,8 +52,6 @@ body {
     line-height: 34px;
 
 }
-
-
 
 .section {
     text-align: center;
