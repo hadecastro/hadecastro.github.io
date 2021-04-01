@@ -55,6 +55,7 @@ body {
 }
 
 img.my-pic {
+    float: left;
     padding: 0px;
     margin: 0px;
     height: 628px;
