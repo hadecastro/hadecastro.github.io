@@ -135,7 +135,7 @@ img.my-pic {
 .project-box {
     background-color: #f4ebe6;
     color: #566777;
-    transition: 0.5 ease;
+    transition: 0.5 ease; 
 }
 
 .project-box:hover {
