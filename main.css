@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background: #fdfeff;
+    background: #ecf2f8;
     color: #566777;
     font-family: 'Montserrat', sans-serif;
 }
@@ -38,6 +38,9 @@ body {
     margin: 0 auto;
 }
 
+.right {
+    float: right;
+}
 #education {
     height: auto;
     margin-right: auto;
