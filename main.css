@@ -144,4 +144,5 @@ img.my-pic {
 
 .project-box:hover {
     opacity: 0.4;
+    text-decoration: none;
 }
