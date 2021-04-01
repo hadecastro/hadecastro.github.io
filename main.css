@@ -47,22 +47,27 @@ body {
 }
 
 .desc-right {
-    float: right;
     color: #ecf2f8;
     font-family: 'Karla', sans-serif;
     letter-spacing: 0.3em;
     font-size: 19px;
+    padding-left: 20px
 }
 
 img.my-pic {
-    float: left;
-    padding: 0px;
-    margin: 0px;
-    height: 628px;
-    width: 397px;
+    flex-basis: 40%;
+    padding-right: 10px;
+    padding-left: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 316px;
+    width: 200px;
 }
 
 .description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: auto;
     margin-right: auto;
     margin-left: auto;
