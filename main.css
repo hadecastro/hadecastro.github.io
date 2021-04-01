@@ -7,6 +7,10 @@ body {
     margin: 0 auto;
 }
 
+.a:hover {
+    text-decoration: none;
+}
+
 .navbar {
     background: #ecf2f8;
     color: #566777;
@@ -135,7 +139,7 @@ img.my-pic {
 .project-box {
     background-color: #f4ebe6;
     color: #566777;
-    transition: 0.5 ease; 
+    transition: 0.5s ease; 
 }
 
 .project-box:hover {
