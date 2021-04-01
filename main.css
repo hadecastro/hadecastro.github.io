@@ -46,6 +46,10 @@ body {
     float: right;
 }
 
+.hello-world {
+    align-items: center;
+    margin: 20px;
+}
 .desc-right {
     color: #ecf2f8;
     font-family: 'Karla', sans-serif;
@@ -55,6 +59,7 @@ body {
 }
 
 img.my-pic {
+    float: left;
     flex-basis: 40%;
     margin-right: 10px;
     margin-left: 10px;
