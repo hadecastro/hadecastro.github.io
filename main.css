@@ -46,14 +46,22 @@ body {
     float: right;
 }
 
-.description {
+.desc-right {
     float: right;
     color: #ecf2f8;
     font-family: 'Karla', sans-serif;
     letter-spacing: 0.3em;
+    font-size: 19px;
 }
 
-#about-me {
+img.my-pic {
+    padding: 0px;
+    margin: 0px;
+    height: 628px;
+    width: 397px;
+}
+
+.description {
     height: auto;
     margin-right: auto;
     margin-left: auto;
