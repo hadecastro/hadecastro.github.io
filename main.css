@@ -48,7 +48,8 @@ body {
 
 .hello-world {
     align-items: center;
-    margin: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 .desc-right {
     color: #ecf2f8;
