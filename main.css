@@ -131,3 +131,13 @@ img.my-pic {
     font-size: 19px;
     line-height: 34px;
 }
+
+.project-box {
+    background-color: #f4ebe6;
+    color: #566777;
+    transition: 0.5 ease;
+}
+
+.project-box:hover {
+    opacity: 0.3;
+}
