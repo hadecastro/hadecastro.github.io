@@ -46,6 +46,13 @@ body {
     float: right;
 }
 
+.description {
+    float: right;
+    color: #ecf2f8;
+    font-family: 'Karla', sans-serif;
+    letter-spacing: 0.3em;
+}
+
 #about-me {
     height: auto;
     margin-right: auto;
