@@ -52,8 +52,8 @@ a:hover {
 
 .hello-world {
     align-items: center;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
     margin-bottom: 40px;
 }
 
@@ -72,8 +72,8 @@ img.my-pic {
     margin-right: 30px;
     margin-left: 10px;
     margin-bottom: 30px;
-    height: 316px;
-    width: 200px;
+    height: 474px;
+    width: 300px;
 }
 
 .description { 
