@@ -173,14 +173,11 @@ img.my-pic {
     margin-right: 300px;
     margin-bottom: 40px;
     background-color: #566777;
+    color: #ecf2f8;
 }
 
 .contact-text {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-bottom: 40px;
     letter-spacing: 5px;
-
 }
