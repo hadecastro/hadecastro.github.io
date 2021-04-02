@@ -44,8 +44,8 @@ a:hover {
 .inner {
     max-width: 1024px;
     margin: 0 auto;
-    padding-right: 5px;
-    padding-left: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .right {
