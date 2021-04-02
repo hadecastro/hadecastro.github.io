@@ -178,4 +178,11 @@ img.my-pic {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
+    padding-top: 30px;
+}
+
+.icons {
+    color: #ecf2f8;
+    font-size: 26px;
+    letter-spacing: 5px;
 }
