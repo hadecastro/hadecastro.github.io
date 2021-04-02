@@ -168,6 +168,9 @@ img.my-pic {
 }
 
 #contact {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
     align-items: center;
     margin-bottom: 40px;
     background-color: #566777;
@@ -178,7 +181,7 @@ img.my-pic {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
-    padding-top: 30px;
+    padding-top: 20px;
     font-size: 26px;
 }
 
@@ -186,4 +189,5 @@ img.my-pic {
     color: #ecf2f8;
     font-size: 26px;
     letter-spacing: 5px;
+    text-align: center;
 }
