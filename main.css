@@ -167,6 +167,12 @@ img.my-pic {
     line-height: 34px;
 }
 
+#contact {
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+}
 .contact-text {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
