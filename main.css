@@ -188,7 +188,8 @@ img.my-pic {
 
 .icons {
     color: #ecf2f8;
+    padding-top: 10px;
     font-size: 40px;
-    letter-spacing: 10px;
+    letter-spacing: 15px;
     text-align: center;
 }
