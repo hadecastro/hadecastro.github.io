@@ -175,19 +175,20 @@ img.my-pic {
     margin-bottom: 40px;
     background-color: #566777;
     color: #ecf2f8;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .contact-text {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
-    padding-top: 20px;
     font-size: 26px;
 }
 
 .icons {
     color: #ecf2f8;
     font-size: 40px;
-    letter-spacing: 5px;
+    letter-spacing: 10px;
     text-align: center;
 }
