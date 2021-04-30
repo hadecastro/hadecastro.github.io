@@ -195,3 +195,9 @@ img.my-pic {
     letter-spacing: 15px;
     text-align: center;
 }
+
+footer {
+    background-color: #4b5598;
+    padding: 10px; 
+    color: #ecf2f8;
+}
