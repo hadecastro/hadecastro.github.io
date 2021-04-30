@@ -174,7 +174,6 @@ img.my-pic {
     margin-left: auto;
     margin-top: 30px;
     align-items: center;
-    margin-bottom: 40px;
     background-color: #566777;
     color: #ecf2f8;
     padding-bottom: 20px;
@@ -197,7 +196,8 @@ img.my-pic {
 }
 
 footer {
-    background-color: #4b5598;
+    background-color: #566777;
+    text-align: center;
     padding: 10px; 
     color: #ecf2f8;
 }
